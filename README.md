@@ -1,2 +1,2 @@
 # Real-Time-Commodities-Trader-
-The program takes real time tweet data, performs sentiment analysis and trades the cobalt futures. Sell logic is built into the code.
+1.	Real-time commodities trader based on sentiment analysis of Twitter data: Use Twitter data and sentiment analysis to predict cobalt futures price, including when to enter and exit contracts.
